@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-vitest-monorepo",
+  "version": "1.0.0",
+  "description": "nuxt-vitest in monorepo example",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [
+    "vitest",
+    "workspace",
+    "monorepo",
+    "nuxt-vitest",
+    "nuxt"
+  ],
+  "author": "Jordy Kuhne",
+  "license": "MIT",
+  "devDependencies": {
+    "nuxt-vitest": "^0.8.4",
+    "nuxt": "^3.5.2"
+  }
+}
